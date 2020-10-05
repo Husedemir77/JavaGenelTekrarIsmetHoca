@@ -21,7 +21,7 @@ public class Java2DArrray5 {
             System.out.println();
         }
 
-
+        // deneme gereksin yazildi
        // Bütün notların toplamını
         int tumNotlarintoplami=0;
         for(int satir=0;satir < 2; satir++)
