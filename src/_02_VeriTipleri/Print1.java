@@ -1,4 +1,4 @@
-package Gun03;
+package _02_VeriTipleri;
 
 public class Print1 {
     // Haftanın üç günün yan yana ve alt alta yazdırınız

@@ -1,4 +1,4 @@
-package Gun04;
+package _02_VeriTiplerii;
 
 public class JavaString {
     public static void main(String[] args) {

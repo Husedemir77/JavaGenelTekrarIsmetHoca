@@ -1,4 +1,4 @@
-package Gun02;
+package _01_GirisTemelKonular;
 
 public class Merhaba {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package Gun03;
+package _02_VeriTipleri;
 
 public class ScopeInceleme {
     public static void main(String[] args) {
